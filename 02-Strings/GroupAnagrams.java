@@ -13,6 +13,5 @@ public class Groupanagrams {
             map.get(key).add(word);
         }
         System.out.println(map.values());
-
     }
 }
